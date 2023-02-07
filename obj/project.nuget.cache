@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6m3EBosEEN5IUpYLl1D8C7XA5PtFaQtAzRaC2NvbIZFnwlhdcwytJCIqN1/o2mcBhQFaOSZUxYBQhYr8ij5/YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\BooksMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxor\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

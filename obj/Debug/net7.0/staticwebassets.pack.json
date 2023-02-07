@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\css\\bookheader.jpg",
+      "PackagePath": "staticwebassets\\css\\bookheader.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BooksMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BooksMvc.props",
+      "PackagePath": "build\\BooksMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksMvc.props",
+      "PackagePath": "buildMultiTargeting\\BooksMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BooksMvc.props",
+      "PackagePath": "buildTransitive\\BooksMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

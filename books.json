@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Konsten att höra hjärtslag",
+    "Author": "Jan-Philipp Sendker",
+    "Genre": "Novel",
+    "Read": "Ja",
+    "Grade": 4
+  },
+  {
+    "Name": "Himmel över Alaska",
+    "Author": "Kristin Hannah",
+    "Genre": "Skönlitteratur",
+    "Read": "Ja",
+    "Grade": 5
+  },
+  {
+    "Name": "Kampen om järtronen",
+    "Author": "George R. R. Martin",
+    "Genre": "Äventyr",
+    "Read": "Ja",
+    "Grade": 4
+  },
+  {
+    "Name": "Det slutar med oss",
+    "Author": "Colleen Hover",
+    "Genre": "Kärleksroman",
+    "Read": "Ja",
+    "Grade": 4
+  }
+]

@@ -1,0 +1,33 @@
+@model BooksMvc.Models.BookModel //INkluderar modell
+@{
+ViewData["Title"] ="Böcker";
+}
+
+<h2>Lägg till bok</h2>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+    <label asp-for="Name"></label><br>
+    <input asp-for="Name">
+    <span asp-validation-for="Name"></span> <!-- Felmeddelande -->
+    <br>
+    <label asp-for="Author"></label><br>
+    <input asp-for="Author">
+    <span asp-validation-for="Author"></span>
+    <br>
+    <label asp-for="Genre"></label><br>
+    <input asp-for="Genre">
+    <span asp-validation-for="Genre"></span>
+    <br>
+    <label asp-for="Read"></label><br>
+    <input asp-for="Read">
+    <span asp-validation-for="Read"></span>
+    <br>
+    <label asp-for="Grade"></label><br>
+    <input asp-for="Grade" type="number">
+    <span asp-validation-for="Grade"></span>
+    <br><br>
+    <input type="submit" class="sortBtn" value="Lägg till">
+
+
+</form>

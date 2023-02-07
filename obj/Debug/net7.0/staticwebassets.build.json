@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "8FeGY17qo5CkQ0g6nkPEEhq1M+TE1gXnOnNGuebwsy4=",
+  "Source": "BooksMvc",
+  "BasePath": "_content/BooksMvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BooksMvc\\wwwroot",
+      "Source": "BooksMvc",
+      "ContentRoot": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\",
+      "BasePath": "_content/BooksMvc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\css\\bookheader.jpg",
+      "SourceId": "BooksMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\",
+      "BasePath": "_content/BooksMvc",
+      "RelativePath": "css/bookheader.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bookheader.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\css\\main.css",
+      "SourceId": "BooksMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxor\\OneDrive\\Skrivbord\\WebbUtv med .NET\\MVC\\BooksMvc\\wwwroot\\",
+      "BasePath": "_content/BooksMvc",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+@model List<BooksMvc.Models.BookModel> //Tar emot lista med böcker
+@{
+    ViewData["Title"] = "Startsidan";
+}
+
+<h2>Start</h2>
+
+    <div class="start" style="overflow-x:auto;">
+<h3>Dessa böcker har jag läst under året:</h3>
+<table>
+    <tr>
+    <th>Namn</th>
+    <th>Författare</th>
+    <th>Genre</th>
+    <th>Betyg</th>
+  </tr>
+            @foreach (var book in Model)
+            {
+        <tr>
+        <td> @book.Name </td>
+        <td> @book.Author</td>
+        <td> @book.Genre </td>
+        <td> @book.Grade </td>
+        </tr>
+
+            }
+
+    </table
+
+  </div>
